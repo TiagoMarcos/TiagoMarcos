@@ -2,7 +2,7 @@
 - 👀 I’m interested in sharks and neuroscience
 - 🌱 I’m currently learning advanced R (I hope, at least advanced baby stuff)
 - 💞️ I’m looking to collaborate on shark data projects
-- 📫 How to reach me: in a few months, finishing a thesis :D
+
 
 <!---
 TiagoMarcos/TiagoMarcos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
